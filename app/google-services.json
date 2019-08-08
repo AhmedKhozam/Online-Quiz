@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "981305572679",
+    "firebase_url": "https://onlinequizapp-ed676.firebaseio.com",
+    "project_id": "onlinequizapp-ed676",
+    "storage_bucket": "onlinequizapp-ed676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981305572679:android:d07a7440877b3ea4",
+        "android_client_info": {
+          "package_name": "com.ahmedabdelmajeedkhozam.onlinegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981305572679-j95sfhs4p5caa0c9ser48crof6v8ece2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmedabdelmajeedkhozam.onlinegame",
+            "certificate_hash": "345dc92afe64c5030e1481112ca8c9ac6eb95b46"
+          }
+        },
+        {
+          "client_id": "981305572679-dp9fs4166jeocrov71s7v5a8jckitous.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlG6KztFI3uOx9uLv8wPplWDZCZAWtJyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981305572679-dp9fs4166jeocrov71s7v5a8jckitous.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981305572679:android:dead9d557e4175a1",
+        "android_client_info": {
+          "package_name": "com.ahmedabdelmajeedkhozam.onlinequizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981305572679-a01a9e93kn4tu78dsvhgf7mliroltgig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmedabdelmajeedkhozam.onlinequizapp",
+            "certificate_hash": "345dc92afe64c5030e1481112ca8c9ac6eb95b46"
+          }
+        },
+        {
+          "client_id": "981305572679-dp9fs4166jeocrov71s7v5a8jckitous.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlG6KztFI3uOx9uLv8wPplWDZCZAWtJyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981305572679-dp9fs4166jeocrov71s7v5a8jckitous.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
